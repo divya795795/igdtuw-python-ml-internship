@@ -9,3 +9,4 @@ with open(file_name, "w") as file:
     file.write(user_input)
 
 print(f"Your input has been written to {file_name}")
+
